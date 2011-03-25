@@ -1,0 +1,13 @@
+hello_world
+Y:\hello_world\
+Objects\
+0
+1
+minic
+0
+0
+0
+0
+1
+objcopy.exe -O srec hello_world.out hello_world.srec
+80020000 start
