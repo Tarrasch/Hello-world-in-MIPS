@@ -1,6 +1,6 @@
 		#include <iregdef.h>
 		.data
-thing:	.asciiz "Hello world!\n"	# \n means newline
+thing:	.asciiz "Hej Kalle!\n"	# \n means newline
 
 		.text						# Start generating instructions
 		.globl	main				# The label should be globally known
