@@ -9,6 +9,5 @@ main:
 		li		v0, 4
 		la		a0, thing
 		syscall	
-
-		
+	
 		.end	main
