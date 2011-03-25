@@ -1,4 +1,6 @@
 *.o
 *.out
 *.srec
+*.pdb
+*.mip
 
