@@ -9,5 +9,7 @@ main:
 		li		v0, 4
 		la		a0, thing
 		syscall	
+loop_here:
+		j loop_here
 	
 		.end	main
