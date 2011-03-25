@@ -10,6 +10,5 @@ main:
 		la		a0, thing
 		syscall	
 
-		b main
-
+		
 		.end	main
